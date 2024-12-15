@@ -3,7 +3,7 @@
 # Данные проекта
 
 Для выполнения анализа были использованы данные, которые можно скачать по следующей ссылке:  
-[Скачать данные]([https://link-to-your-dataset.com](https://drive.google.com/file/d/17Qsg6S0kaiVn60NT7DLmfn0dU0lwMpDG/view?usp=sharing))
+[Скачать данные](https://drive.google.com/file/d/17Qsg6S0kaiVn60NT7DLmfn0dU0lwMpDG/view?usp=sharing)
 
 ## Оглавление
 [1. Описание проекта](#Описание-проекта)  
